@@ -1,1 +1,1 @@
-EMBEDDED PROJECT
+proj1
